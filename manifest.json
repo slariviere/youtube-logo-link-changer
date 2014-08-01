@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Youtube logo link changer",
-  "description": "This simple extension change the logo link on youtube to your subscriptions feed.",
+  "name": "Logo link changer",
+  "description": "This extension change the link on the youtube logo to your subscriptions feed.",
   "version": "1.0",
 
   "permissions": [
